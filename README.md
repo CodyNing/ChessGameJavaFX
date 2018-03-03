@@ -1,6 +1,6 @@
 # ChessGameJavaFX
 
- Implemented feature:
+ # Implemented features:
  * Basic movement pattern
  * Low level rules restricted movement
  * Pawn's Promotion
@@ -9,11 +9,13 @@
  * King and Rook's Castling special movement
  * Save and load game
  
- * TODO:
+ # TODO:
    * Separate functions
    * Simplify logic
    * Testing and Debugging
    * Optimization
+   * Online battle (Maybe)
+   * AI (wow! Can I?)
 
 # Starting game:
 
